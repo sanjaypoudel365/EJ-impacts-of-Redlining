@@ -1,4 +1,4 @@
-# **Exploring Environmental Justice, Redlining, and Biodiversity in Los Angeles**
+# **Exploring Patterns of Environmental Justice in LA due to HOLC Redlining**
 
 ## **About**
 This project investigates the legacy of historical redlining practices on environmental justice (EJ) outcomes and biodiversity observations in Los Angeles. By integrating data on environmental indicators, socioeconomic factors, historical HOLC maps, and recent biodiversity observations, we aim to understand how past injustices continue to shape present-day environmental and ecological realities.
