@@ -4,15 +4,15 @@
 This project investigates the legacy of historical redlining practices on environmental justice (EJ) outcomes and biodiversity observations in Los Angeles. By integrating data on environmental indicators, socioeconomic factors, historical HOLC maps, and recent biodiversity observations, we aim to understand how past injustices continue to shape present-day environmental and ecological realities.
 
 ## **Repository Structure**
-- `project/`
-  - `src/`
-    - `main.py` - Main script
-    - `utils.py` - Utility functions
-  - `tests/`
-    - `test_main.py` - Tests for main script
-  - `README.md` - Project documentation
-  - `requirements.txt` - Python dependencies
-  - `LICENSE` - License file
+
+- `analysis_files/`                # Folder containing analysis-related files
+- `.DS_Store`                      # macOS system file (generally ignored by Git)
+- `.gitignore`                     # Git ignore file to exclude unnecessary files
+- `EJ impacts of Redlining.Rproj`   # R project file for analysis
+- `LICENSE`                        # License file for the project
+- `README.md`                      # Project documentation
+- `analysis.html`                  # Generated HTML report
+- `analysis.qmd`                   # Quarto markdown file for analysis
 
 ## **Data Overview**
 
